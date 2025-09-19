@@ -84,8 +84,8 @@ Put test data (e.g., login credentials) in `cypress/fixtures/example.json`:
 
 ```json
 {
-  "email": "user@example.com",
-  "password": "password123"
+  "email": "admin@email.com",
+  "password": "admin123"
 }
 ```
 
@@ -142,6 +142,7 @@ To generate test reports, you can integrate with:
 * **Mochawesome** (HTML reports)
 * **Allure Reporter** (advanced reports with history)
 
+
 Example installation for Mochawesome:
 
 ```bash
@@ -149,3 +150,5 @@ npm install --save-dev mochawesome mochawesome-merge mochawesome-report-generato
 ```
 
 ---
+## 📊 Test Excecution Video:
+* https://drive.google.com/file/d/1ipHOSRm4PZOg2XX9QneBaHvLjC9UMb_O/view?usp=drive_link
