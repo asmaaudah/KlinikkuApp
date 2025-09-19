@@ -1,7 +1,10 @@
 # Sample Result
+
 screenshot:
 https://drive.google.com/file/d/1-BRVDyKK6OweZUx5mxZ_EXwhbBHL9_Id/view?usp=drive_link
-Video:
+
+Web Automation Video:
+https://drive.google.com/file/d/1ipHOSRm4PZOg2XX9QneBaHvLjC9UMb_O/view?usp=drive_link
 
 ---
 PS C:\Users\audaa\Automation\cypress\klinikku> npx cypress run
